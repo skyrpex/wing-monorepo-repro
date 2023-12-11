@@ -1,3 +1,7 @@
 {
-  "name": "lib-a"
+  "name": "lib-a",
+  "version": "0.0.1",
+  "description": "",
+  "license": "MIT",
+  "author": "skyrpex"
 }
